@@ -28,5 +28,5 @@ Heroku: https://guarded-ocean-13502-3060c6f835e5.herokuapp.com/
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
 md
-![alt text](assets/images/screenshot.png)
+![alt text](client/src/images/Launched_ScreenShot.png)
 
